@@ -9,7 +9,7 @@ This mod is only compatible with fabric loaders
 
 ### Compatibility
 
-Minecraft 1.21.4
+Minecraft 1.21.5
 
 ### Requirements
 
